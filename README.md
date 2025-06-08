@@ -1,5 +1,6 @@
 # Capstone
 Capstone Project for Salesforce
 
-Link for each step done.
+Drive Link for each step I have done. It has been separated into its individual parts apart from the first two steps
+The creation of the developer account was done in a screenshot instead of video.
 https://drive.google.com/drive/folders/1C-j9LcNP0s-pZ_7fn1kBLBcB20pjx15R?usp=sharing
